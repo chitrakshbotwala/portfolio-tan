@@ -126,27 +126,22 @@ let footer = $(`
           </div>
 
 
-
-          <div class="container">
-          <h1>FormSubmit Demo</h1>
-          <form target="_blank" action="https://formsubmit.co/chitraksh2705@gmail.com" method="POST">
-            <div class="form-group">
-              <div class="form-row">
-                <div class="col">
-                  <input type="text" name="name" class="form-control" placeholder="Full Name" required>
-                </div>
-                <div class="col">
-                  <input type="email" name="email" class="form-control" placeholder="Email Address" required>
-                </div>
+          <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
+          <div class="form-style-6">
+             <div class="form-header">
+                <h6 class="display">Get in Touch</h6>
               </div>
-            </div>
-            <div class="form-group">
-              <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
-            </div>
-            <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
-          </form>
+                <form>
+                <form target="_blank" action="https://formsubmit.co/chitraksh2705@gmail.com" method="POST">
+                  <input type="text" name="field1" placeholder="Your Name" required/>
+                  <input type="email" name="field2" placeholder="Email Address"  required/>
+                  <textarea name="field3" placeholder="Type your Message" required></textarea>
+                  <input type="submit" value="Send" />
+                </form>
+             </div>
+          </div>
         </div>
-
+    </div>
 
     
 
