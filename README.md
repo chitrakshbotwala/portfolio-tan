@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Tanmay Agrawal/Tanmay Agrawal.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Tanmay Agrawal/Tanmay Agrawal.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Tanmay Agrawal.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/Tanmay Agrawal/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.https://scholar.google.com/citations?user=Jum9p6sAAAAJ&hl=en/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
